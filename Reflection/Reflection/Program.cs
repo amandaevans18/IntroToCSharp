@@ -33,6 +33,8 @@ namespace Reflection
 
             //And invoke the method
             meth.Invoke(obj, null);
+
+            
             Console.ReadLine();//Wait for random keyboard input & CR
         }
     }
