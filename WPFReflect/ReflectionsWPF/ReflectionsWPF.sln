@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27703.2047
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ReflectionsWPF", "ReflectionsWPF\ReflectionsWPF.csproj", "{0BEFF93C-B832-40F4-BD92-625902EFEB94}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0BEFF93C-B832-40F4-BD92-625902EFEB94}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0BEFF93C-B832-40F4-BD92-625902EFEB94}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0BEFF93C-B832-40F4-BD92-625902EFEB94}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0BEFF93C-B832-40F4-BD92-625902EFEB94}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8EA45211-AECA-4912-A450-A3336851DF93}
+	EndGlobalSection
+EndGlobal
